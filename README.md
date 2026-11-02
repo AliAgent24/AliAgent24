@@ -15,37 +15,16 @@
 
 ## 🧠 About Me
 
-```python
-class Ali:
-    def __init__(self):
-        self.name = "Ali"
-        self.username = "AliAgent24"
-        self.role = "AI Engineer"
-        self.focus = [
-            "AI Agents",
-            "LLM & RAG",
-            "Generative AI",
-            "Computer Vision",
-            "Machine Learning",
-            "Deep Learning",
-            "AI Automation",
-            "AI Chatbots"
-        ]
-        self.goal = "Building intelligent AI-powered solutions"
+Hi! I'm **Ali**, an AI Engineer passionate about building intelligent and innovative AI-powered solutions.
 
-    def say_hi(self):
-        print("Welcome to my GitHub! Let's build something amazing.")
+- 🤖 Specializing in **AI Agents** and autonomous systems.
+- 🧠 Exploring **LLMs, RAG architectures, and Generative AI**.
+- 👁️ Interested in **Computer Vision** and Deep Learning.
+- 💬 Developing intelligent AI Chatbots.
+- ⚡ Building AI-powered automation solutions.
+- 🚀 Continuously learning, experimenting, and creating new things.
 
-me = Ali()
-me.say_hi()
-```
-
-- 🤖 Passionate about Artificial Intelligence and intelligent agents.
-- 🧠 Exploring LLMs, RAG architectures and Generative AI.
-- 👁️ Interested in Computer Vision and Deep Learning.
-- ⚡ Building AI-powered automation and chatbot solutions.
-- 🚀 Always learning, experimenting and creating.
-
+**🎯 My Goal:** To build intelligent AI systems that solve real-world problems.
 ---
 
 ## 🛠️ Tech Stack
