@@ -130,9 +130,10 @@ Hi! I'm **Ali**, an AI Engineer passionate about building intelligent and innova
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AliAgent24/AliAgent24/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
+<img src="https://ghchart.rshah.org/39d353/AliAgent24" alt="AliAgent24 GitHub Contributions" width="100%" />
 
 </div>
+
 
 ---
 
