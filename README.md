@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:302B63,100:8E44AD&height=200&section=header&text=Ali&fontSize=75&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20ENGINEER%20%7C%20AI%20AGENTS%20DEVELOPER&descAlignY=58&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:302B63,100:8E44AD&height=200&section=header&text=ALI&fontSize=75&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20ENGINEER%20%7C%20AI%20AGENTS%20DEVELOPER&descAlignY=58&descSize=17" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ali+%F0%9F%91%8B;AI+Engineer+%F0%9F%A4%96;Building+Intelligent+AI+Agents;LLM+%7C+RAG+%7C+Generative+AI;Turning+Ideas+Into+Reality+%E2%9C%A8" />
 
@@ -82,11 +82,11 @@ Hi! I'm **Ali**, an AI Engineer passionate about building intelligent and innova
 <div align="center">
 
 <a href="https://github.com/AliAgent24">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AliAgent24&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A970FF&icon_color=39D353&text_color=C9D1D9" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AliAgent24&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A970FF&icon_color=8A63D2&text_color=FFFFFF" />
 </a>
 
 <a href="https://github.com/AliAgent24">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAgent24&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=C9D1D9" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAgent24&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=FFFFFF" />
 </a>
 
 </div>
@@ -97,17 +97,7 @@ Hi! I'm **Ali**, an AI Engineer passionate about building intelligent and innova
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=AliAgent24&theme=transparent&hide_border=true&background=0D1117&ring=A970FF&fire=39D353&currStreakLabel=A970FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
-
-</div>
-
----
-
-## 🟩 My GitHub Contributions
-
-<div align="center">
-
-<img src="https://contribkit.app/user/AliAgent24.svg?palette=github&shape=square&background=%230D1117" width="100%" alt="AliAgent24 GitHub Contribution Calendar" />
+<img width="90%" src="https://streak-stats.demolab.com?user=AliAgent24&theme=midnight-purple&hide_border=true&background=0D1117&stroke=8A63D2&ring=A970FF&fire=FF6B9D&currStreakLabel=A970FF" />
 
 </div>
 
@@ -127,7 +117,7 @@ Hi! I'm **Ali**, an AI Engineer passionate about building intelligent and innova
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AliAgent24&bg_color=0D1117&color=A970FF&line=39D353&point=FFFFFF&area=true&hide_border=true&custom_title=Ali's%20Contribution%20Activity" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AliAgent24&bg_color=0D1117&color=A970FF&line=8A63D2&point=FFFFFF&area=true&hide_border=true&custom_title=Ali's%20Contribution%20Graph" />
 
 </div>
 
