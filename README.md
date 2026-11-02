@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:302B63,100:8E44AD&height=200&section=header&text=ALI&fontSize=75&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20ENGINEER%20%7C%20AI%20AGENTS%20DEVELOPER&descAlignY=58&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:302B63,100:8E44AD&height=200&section=header&text=Ali&fontSize=75&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20ENGINEER%20%7C%20AI%20AGENTS%20DEVELOPER&descAlignY=58&descSize=17" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ali+%F0%9F%91%8B;AI+Engineer+%F0%9F%A4%96;Building+Intelligent+AI+Agents;LLM+%7C+RAG+%7C+Generative+AI;Turning+Ideas+Into+Reality+%E2%9C%A8" />
 
