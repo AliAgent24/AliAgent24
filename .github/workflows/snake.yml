@@ -15,14 +15,14 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Generate Snake Animation
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: AliAgent24
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%23A855F7&color_dots=%230E4429,%23006D32,%2326A641,%2339D353
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23A855F7&color_dots=%23161B22,%230E4429,%23006D32,%2326A641,%2339D353
 
-      - name: Publish Snake Animation
+      - name: Deploy Snake
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
