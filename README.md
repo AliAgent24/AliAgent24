@@ -93,13 +93,14 @@ Hi! I'm **Ali**, an AI Engineer passionate about building intelligent and innova
 
 ---
 
-## 🔥 Contribution Streak
+##  Contribution Streak
 
 <div align="center">
 
-<img width="90%" src="https://streak-stats.demolab.com?user=AliAgent24&theme=midnight-purple&hide_border=true&background=0D1117&stroke=8A63D2&ring=A970FF&fire=FF6B9D&currStreakLabel=A970FF" />
+<img src="https://ghchart.rshah.org/39d353/AliAgent24" alt="AliAgent24 GitHub Contributions" width="100%" />
 
 </div>
+
 
 ---
 
