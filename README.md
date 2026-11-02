@@ -1,19 +1,21 @@
- 
-<div align="center">
+ <div align="center">
 
-# 👋 Hi, I'm Ali!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:302B63,100:8E44AD&height=200&section=header&text=ALI&fontSize=75&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20ENGINEER%20%7C%20AI%20AGENTS%20DEVELOPER&descAlignY=58&descSize=17" width="100%" />
 
-### 🤖 AI Engineer | AI Agents Developer | LLM & RAG Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ali+%F0%9F%91%8B;AI+Engineer+%F0%9F%A4%96;Building+Intelligent+AI+Agents;LLM+%7C+RAG+%7C+Generative+AI;Turning+Ideas+Into+Reality+%E2%9C%A8" />
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Building+Intelligent+AI+Agents;Developing+LLM+%26+RAG+Systems;Exploring+Generative+AI;Turning+Ideas+Into+AI+Solutions" />
-</p>
+<br/>
+
+<a href="https://github.com/AliAgent24">
+<img src="https://img.shields.io/badge/GitHub-AliAgent24-181717?style=for-the-badge&logo=github" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=AliAgent24&label=PROFILE+VIEWS&color=8e44ad&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
 Hi! I'm **Ali**, an AI Engineer passionate about building intelligent and innovative AI-powered solutions.
 
@@ -22,57 +24,56 @@ Hi! I'm **Ali**, an AI Engineer passionate about building intelligent and innova
 - 👁️ Interested in **Computer Vision** and Deep Learning.
 - 💬 Developing intelligent AI Chatbots.
 - ⚡ Building AI-powered automation solutions.
-- 🚀 Continuously learning, experimenting, and creating new things.
+- 🚀 Continuously learning, experimenting, and creating.
 
-**🎯 My Goal:** To build intelligent AI systems that solve real-world problems.
+🎯 **My Goal:** To build intelligent AI systems that solve real-world problems.
+
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,java,bash" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,java,bash&theme=dark" />
 </p>
 
 ### 🤖 AI & Machine Learning
 
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" />
 </p>
 
-### 🧠 LLM & AI Tools
+### 🧠 LLM & Generative AI
 
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/LlamaIndex-6C47FF?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge&logoColor=white" />
+<p align="center">
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/LlamaIndex-7B61FF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge&logoColor=white" />
 </p>
 
-### 🌐 Backend & Development
+### 🌐 Backend, Tools & Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,django,git,github,docker,linux,vscode" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,docker,git,github,linux,vscode,postgres,mongodb,redis&theme=dark" />
 </p>
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 Areas of Interest
 
-- 🤖 Autonomous AI Agents
-- 🔍 Retrieval-Augmented Generation (RAG)
-- 💬 Intelligent AI Chatbots
-- 🧠 LLM-powered applications
-- 👁️ Computer Vision projects
-- ⚙️ AI Workflow Automation
+| Field | Focus |
+|:---:|:---|
+| 🤖 | AI Agents & Agentic AI |
+| 🧠 | Large Language Models |
+| 🔍 | Retrieval-Augmented Generation |
+| 👁️ | Computer Vision |
+| ⚡ | AI Automation |
+| 💬 | AI Chatbots |
+| ✨ | Generative AI |
+| 🧬 | Machine Learning & Deep Learning |
 
 ---
 
@@ -80,19 +81,23 @@ Hi! I'm **Ali**, an AI Engineer passionate about building intelligent and innova
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AliAgent24&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" />
+<a href="https://github.com/AliAgent24">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AliAgent24&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A970FF&icon_color=8A63D2&text_color=FFFFFF" />
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAgent24&layout=compact&theme=midnight-purple&hide_border=true" />
+<a href="https://github.com/AliAgent24">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAgent24&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=FFFFFF" />
+</a>
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=AliAgent24&theme=midnight-purple&hide_border=true" />
+<img width="90%" src="https://streak-stats.demolab.com?user=AliAgent24&theme=midnight-purple&hide_border=true&background=0D1117&stroke=8A63D2&ring=A970FF&fire=FF6B9D&currStreakLabel=A970FF" />
 
 </div>
 
@@ -102,17 +107,27 @@ Hi! I'm **Ali**, an AI Engineer passionate about building intelligent and innova
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AliAgent24&theme=discord&no-frame=true&no-bg=true&margin-w=5" />
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=AliAgent24&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" />
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AliAgent24&bg_color=0d1117&color=a855f7&line=9333ea&point=c084fc&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AliAgent24&bg_color=0D1117&color=A970FF&line=8A63D2&point=FFFFFF&area=true&hide_border=true&custom_title=Ali's%20Contribution%20Graph" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AliAgent24/AliAgent24/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake Animation" />
 
 </div>
 
@@ -122,32 +137,36 @@ Hi! I'm **Ali**, an AI Engineer passionate about building intelligent and innova
 
 <div align="center">
 
-<a href="https://github.com/AliAgent24">
-  <img src="https://img.shields.io/badge/GitHub-AliAgent24-181717?style=for-the-badge&logo=github" />
+<a href="https://github.com/AliAgent24?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_My_Repositories-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</div>
+<br/><br/>
 
-Explore my repositories to discover my latest AI and Machine Learning projects.
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/AliAgent24">
-  <img src="https://img.shields.io/badge/GitHub-AliAgent24-181717?style=for-the-badge&logo=github" />
-</a>
+Explore my projects in AI, Machine Learning, LLMs, RAG and AI Agents.
 
 </div>
 
 ---
 
+## 🤝 Let's Connect
+
 <div align="center">
 
-### 💜 "Building the future, one intelligent agent at a time."
+<a href="https://github.com/AliAgent24">
+<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github" />
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" />
+</div>
+
+---
+
+<div align="center">
+
+### 💜 Building the Future with Artificial Intelligence
+
+*"The best way to predict the future is to create it."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:302B63,100:8E44AD&height=120&section=footer" width="100%" />
 
 </div>
