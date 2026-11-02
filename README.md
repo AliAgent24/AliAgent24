@@ -82,25 +82,34 @@ Hi! I'm **Ali**, an AI Engineer passionate about building intelligent and innova
 <div align="center">
 
 <a href="https://github.com/AliAgent24">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AliAgent24&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A970FF&icon_color=8A63D2&text_color=FFFFFF" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AliAgent24&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A970FF&icon_color=39D353&text_color=C9D1D9" />
 </a>
 
 <a href="https://github.com/AliAgent24">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAgent24&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=FFFFFF" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAgent24&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=C9D1D9" />
 </a>
 
 </div>
 
 ---
 
-##  Contribution Streak
+## 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/39d353/AliAgent24" alt="AliAgent24 GitHub Contributions" width="100%" />
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=AliAgent24&theme=transparent&hide_border=true&background=0D1117&ring=A970FF&fire=39D353&currStreakLabel=A970FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
 
 </div>
 
+---
+
+## 🟩 My GitHub Contributions
+
+<div align="center">
+
+<img src="https://contribkit.app/user/AliAgent24.svg?palette=github&shape=square&background=%230D1117" width="100%" alt="AliAgent24 GitHub Contribution Calendar" />
+
+</div>
 
 ---
 
@@ -118,12 +127,9 @@ Hi! I'm **Ali**, an AI Engineer passionate about building intelligent and innova
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AliAgent24&bg_color=0D1117&color=A970FF&line=8A63D2&point=FFFFFF&area=true&hide_border=true&custom_title=Ali's%20Contribution%20Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AliAgent24&bg_color=0D1117&color=A970FF&line=39D353&point=FFFFFF&area=true&hide_border=true&custom_title=Ali's%20Contribution%20Activity" />
 
 </div>
-
-
-
 
 ---
 
@@ -131,10 +137,9 @@ Hi! I'm **Ali**, an AI Engineer passionate about building intelligent and innova
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/39d353/AliAgent24" alt="AliAgent24 GitHub Contributions" width="100%" />
+<img src="https://raw.githubusercontent.com/AliAgent24/AliAgent24/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake Animation" />
 
 </div>
-
 
 ---
 
