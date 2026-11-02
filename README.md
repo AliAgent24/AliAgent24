@@ -122,13 +122,14 @@ Hi! I'm **Ali**, an AI Engineer passionate about building intelligent and innova
 </div>
 
 
+
 ---
 
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AliAgent24/AliAgent24/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
+<img src="https://raw.githubusercontent.com/AliAgent24/AliAgent24/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Ali's Contribution Snake" />
 
 </div>
 
